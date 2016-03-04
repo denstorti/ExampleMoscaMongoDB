@@ -1,5 +1,5 @@
 # ExampleMoscaMongoDB
-Example of Mosca broker using MongoDB to communicate via MQTT
+Example of Mosca broker using MongoDB to communicate via MQTT in Node.js
 
 In the folder:
 npm install
